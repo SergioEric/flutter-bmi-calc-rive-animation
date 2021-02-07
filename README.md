@@ -7,7 +7,8 @@ A simple Flutter app with @rive_app animations.
 <img src="./github_assets/screenshot.webp" width="400px" alt="screenshot_on_android" style="float:left" />
 
 ### Demo video
-<video width="400px" src="./github_assets/demo.mp4" controls autoplay> </video>
+
+<img src="./github_assets/demo.gif" width="400px" alt="demo" style="float:left" />
 
 ### Illustration on Adobe Illustrator
 
