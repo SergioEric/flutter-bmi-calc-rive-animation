@@ -333,13 +333,7 @@ class BuildResultBox extends StatelessWidget {
         children: [
           TableRow(
             decoration: BoxDecoration(
-              color: primaryColor.withAlpha(5),
-              borderRadius: BorderRadius.only(
-                topLeft: Radius.circular(5),
-                topRight: Radius.circular(5),
-                bottomLeft: Radius.circular(5),
-                bottomRight: Radius.circular(5),
-              ),
+              borderRadius: BorderRadius.circular(10),
               border: Border.all(color: borderColor, width: 2),
             ),
             children: [
